@@ -28,17 +28,16 @@ Open the website , Select the Web Element (ID) and add in the code
 
 
 
-Code:
+# Code:
 
 <img src="https://user-images.githubusercontent.com/48597284/180652070-0fdb0763-98dc-488f-ad27-71f8874a569f.png" width=60% height=60%>
 
 
-Output:
+# Output:
 
 
 <img src="https://user-images.githubusercontent.com/48597284/180625478-2895182c-41b0-4cba-ac5b-b8c9d39234da.png" width=80% height=80%>
 
 <img src="https://user-images.githubusercontent.com/48597284/180652454-122c79d6-3557-45c7-a325-a27d141fa4d3.png" width=80% height=80%>
-
 
 <img src="https://user-images.githubusercontent.com/48597284/180652289-c605bf84-fc03-4e6a-b660-36b3ed498a20.gif" width=60% height=60%>
